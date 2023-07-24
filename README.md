@@ -7,7 +7,6 @@
 - [Download](https://github.com/everhusk/sukhveer.ca/archive/refs/heads/main.zip)
 - [Theme](https://rubygems.org/gems/oinam-jekyll)
 
-## Todo
+## Blogs
 
 - [ ] Energy Dynamics of Bitcoin
-- [ ] Energy Dynamics of Ethereum
