@@ -2,6 +2,6 @@
 layout: page
 ---
 
-Welcome, Earthean.
+Welcome to my website!
 
 ---
